@@ -1,0 +1,70 @@
+.Rectangle {
+  background-color: #ffffff;
+  background-color: var(--white);
+  box-shadow: 0 1px 0 0 rgba(0, 0, 0, 0.1);
+}
+
+.matter {
+  color: #030303;
+  font-family: ProximaNova;
+  font-size: 36px;
+}
+.nav-link {
+  object-fit: contain;
+  font-family: ProximaNova;
+  font-size: 12px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 3.33;
+  letter-spacing: 1px;
+  margin-left: 40px;
+}
+
+.Welcome-Alex {
+  width: 107px;
+  height: 40px;
+  object-fit: contain;
+  font-family: ProximaNova;
+  font-size: 12px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 3.33;
+  letter-spacing: 1px;
+  color: #33333a;
+}
+
+.Rectangle-2-Copy-2 {
+  margin-left: 10px;
+}
+
+.SearchIcon {
+  margin-left: 30px;
+}
+
+.WishListIcon {
+  margin-left: 30px;
+}
+
+.BasketIcon {
+  margin-left: 30px;
+}
+
+.cart-items-count{
+  position:relative;
+  display:flex;
+  text-align:center;
+  justify-content: center;
+  top:-55px;
+}
+
+.notification-counter {   
+  position: absolute;
+  left: 8px;
+  background-color: rgba(212, 19, 13, 1);
+  color: #fff;
+  border-radius: 3px;
+  padding: 1px 3px;
+  font: 8px Verdana;
+}
