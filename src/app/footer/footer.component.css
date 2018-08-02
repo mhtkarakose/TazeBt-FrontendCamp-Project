@@ -1,0 +1,115 @@
+.Background {
+  width: 100%;
+  height: 100%;
+  background-color: #33333a;
+}
+
+.Categories {
+  width: 87px;
+  height: 30px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  color: #ffffff;
+  color: var(--white);
+  padding-top: 42px;
+}
+
+.About-us-Testimonial {
+  width: 87px;
+  height: 125px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.79;
+  letter-spacing: normal;
+  color: #dedede;
+  padding-top: 19px;
+}
+
+.Partners {
+  width: 73px;
+  height: 30px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  color: #ffffff;
+  color: var(--white);
+  padding-top: 42px;
+}
+
+.Support-Shipping-R {
+  width: 118px;
+  height: 100px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.79;
+  letter-spacing: normal;
+  color: #dedede;
+  padding-top: 19px;
+}
+
+.Contact-us {
+  width: 87px;
+  height: 30px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  color: #ffffff !important;
+  color: var(--white);
+  padding-top: 42px;
+}
+
+.A-Pagoda-St-TANGS {
+  width: 146px;
+  height: 100px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.79;
+  letter-spacing: normal;
+  color: #dedede;
+  padding-top: 19px;
+}
+
+.Subscribe-to-newslet {
+  width: 189px;
+  height: 30px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  color: #ffffff !important;
+  color: var(--white);
+  padding-top: 42px;
+}
+
+.Select-Default-bg {
+    width: 360px;
+    height: 40px;
+    background-color: #33333a;
+    border: solid 1px #666666;
+    margin-top: 19px;
+  }
