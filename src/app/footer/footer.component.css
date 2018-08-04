@@ -104,12 +104,81 @@
   color: #ffffff !important;
   color: var(--white);
   padding-top: 42px;
+  padding-bottom: 19px;
 }
 
 .Select-Default-bg {
-    width: 360px;
+    width: 250px;
     height: 40px;
     background-color: #33333a;
     border: solid 1px #666666;
     margin-top: 19px;
+    color: #dedede;
+  }
+  ::placeholder {
+    width: 329px;
+    height: 20px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+    color: #dedede;
+    padding: 10px;
+}
+
+.M {
+  width: 166px;
+  height: 30px;
+  object-fit: contain;
+  background: #dedede !important;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 19px;
+  padding-right: 19px;
+  margin-left: 30px;
+}
+
+.Show-Men {
+  width: 129px;
+  height: 20px;
+  font-family: ProximaNova;
+  font-size: 12px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.67;
+  letter-spacing: 2px;
+  text-align: center;
+  color: #33333a;
+}
+
+
+.Facebook-Icon {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  margin-top: 24px;
+}
+
+.Twitter-Icon {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  margin-top: 24px;
+  margin-left: 10px;
+}
+
+
+  .-Copyright-Matter-P {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.79;
+    letter-spacing: normal;
+    color: #dedede;
   }
